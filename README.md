@@ -1,3 +1,8 @@
+![MERN](https://img.shields.io/badge/Stack-MERN-green)
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Node](https://img.shields.io/badge/Backend-Node.js-brightgreen)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-darkgreen)
+
 💰 MERN AI Expense Tracker
 
 A modern AI-powered Expense Tracker Web Application built using the MERN Stack.
